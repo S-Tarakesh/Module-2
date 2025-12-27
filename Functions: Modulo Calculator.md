@@ -24,3 +24,4 @@ result(int(input()),int(input()))
 
 
 ## Result
+The program was run and executed successfully.
